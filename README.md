@@ -1,4 +1,6 @@
 # SISTEMA DE VOTAÇÃO ONLINE DO BBB
+Projeto: Recriando o sistema de VOTAÇÃO ONLINE do BBB da empresa [DIO](https://www.dio.me/)! 
+
 O objetivo deste projeto é desenvolver um sistema de votação online para o Big Brother Brasil de forma assíncrona. Este projeto usa tecnologias como Apache Kafka, Docker Composer, Spring Boot, MongoDB e Angular.
 
 O sistema de votação online do BBB é um projeto de ponta a ponta, que se concentra na criação de uma plataforma de votação que permite aos usuários votar em seus participantes favoritos em tempo real. A plataforma é projetada para funcionar de forma assíncrona, permitindo que os usuários votem a qualquer hora do dia, sem a necessidade de aguardar o horário do programa.
